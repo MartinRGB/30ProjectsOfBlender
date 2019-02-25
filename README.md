@@ -1,5 +1,8 @@
 # 30ProjectsOfBlender
-I'm Learning Blender for 3D Coding(Unity/Three.js).By learning the theory behind these effect,I can understand how to code interactive effect.
+
+I lacked knowledge of 3D Design.For better CG Coding(Unity/Three.js),I decide to start learning Blender.
+
+By learning the theory behind these effect,I can understand how to code interactive effect.
 
 ### 1.Abstract
 
