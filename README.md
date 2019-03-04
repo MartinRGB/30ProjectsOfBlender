@@ -18,6 +18,6 @@ What I think about 3D Programming:
 
 - then set the model's normal,set environment map texture as uniform for calculating
 
-- try to custom drawing in shader.
+- try to customize drawing in shader.
 
 - better not use OPENGL's default light,cuz detail is not good.
